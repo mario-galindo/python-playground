@@ -1,4 +1,2 @@
 .python_email
-sendgrid-python/send_email.py
-sendgrid-python/send_email_template_dynamic.py
 sendgrid-python/sendgrid.env
