@@ -8,8 +8,8 @@ message = Mail(
 
 message.template_id = "d-1ede0b26870e4be89b88515f214517fc"
 message.dynamic_template_data = {
-    "subject": "Ganaste!",
-    "name": "Miguel",
+    "subject": "Playing with templates!",
+    "name": "Mario Galindo",
 }
 
 try:
