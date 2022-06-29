@@ -3,7 +3,7 @@ from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail, template_id
 
 message = Mail(
-    from_email="notify@developersindustry.com",
+    from_email="notificaciones@devinhn.com",
     to_emails="mgalindo@devinhn.com",
     subject="Sending with Twilio SendGrid!",
     html_content="<strong>Sent with Python</strong>",
